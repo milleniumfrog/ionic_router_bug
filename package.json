@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@capacitor/core": "2.4.2",
-    "@ionic/vue": "^5.4.0",
-    "@ionic/vue-router": "^5.4.0",
+    "@ionic/vue": "^5.5.0-dev.202010192009.55d7cac",
+    "@ionic/vue-router": "^5.5.0-dev.202010192009.55d7cac",
     "core-js": "^3.6.5",
     "vue": "^3.0.0-0",
     "vue-router": "^4.0.0-0"
