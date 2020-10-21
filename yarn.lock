@@ -948,27 +948,27 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@ionic/core@5.5.0-dev.202010192009.55d7cac":
-  version "5.5.0-dev.202010192009.55d7cac"
-  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-5.5.0-dev.202010192009.55d7cac.tgz#6d1e458cf63467cec583e8f90fb4475f450d5147"
-  integrity sha512-hYXmHpk0lMD9iOCBuipxFZNM7fNBDsKdS1HNKB3oWrjddj3P8OJxGXuTiOuB/KsGMJOqXo2AKxXM3+wenryklQ==
+"@ionic/core@5.5.0-dev.202010201728.85ba838":
+  version "5.5.0-dev.202010201728.85ba838"
+  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-5.5.0-dev.202010201728.85ba838.tgz#15f877696c11ca18dab814b980a5437c146ec310"
+  integrity sha512-Eie8q/hv9GoNyNlyeKWphIyMmQ/K8GdvH/myRCBLb1r06a0OYxRZUgaXFNiYsRgvyrT+RnY66iWJRKQgKXrj8Q==
   dependencies:
     ionicons "^5.1.2"
     tslib "^1.10.0"
 
-"@ionic/vue-router@^5.5.0-dev.202010192009.55d7cac":
-  version "5.5.0-dev.202010192009.55d7cac"
-  resolved "https://registry.yarnpkg.com/@ionic/vue-router/-/vue-router-5.5.0-dev.202010192009.55d7cac.tgz#71c4e5f2b44ea9b1439aafea6c7068eb2f0f0ed9"
-  integrity sha512-WwY8+pSXqCGlfEcDEibk2/Ff62934wGyp921wNCb2f5bEdGlZ1/hjTxgzfozGkOEzKQistsZQjlbXCsh7BSxRA==
+"@ionic/vue-router@5.5.0-dev.202010201728.85ba838":
+  version "5.5.0-dev.202010201728.85ba838"
+  resolved "https://registry.yarnpkg.com/@ionic/vue-router/-/vue-router-5.5.0-dev.202010201728.85ba838.tgz#eb7da5caa1a1d0d685cf95a9262bd22da83f357a"
+  integrity sha512-Lj5aUIrbguwaJPVOCBIl8exLqM/BLEha7ztznVoqzIu/f5KbbftM5b1OHRXKlUev+5nFLHlORV8PPx3bzzGnjg==
   dependencies:
     path-to-regexp "^6.2.0"
 
-"@ionic/vue@^5.5.0-dev.202010192009.55d7cac":
-  version "5.5.0-dev.202010192009.55d7cac"
-  resolved "https://registry.yarnpkg.com/@ionic/vue/-/vue-5.5.0-dev.202010192009.55d7cac.tgz#813a3ae98eb44f6c4b0ac6e21d90864ea4493cfe"
-  integrity sha512-RtLsz1DwPqOaJq4pZ6zDww11ZuuZ2IfsITvVf/XsEJNK0vvKz3X79JPGQGsY82ZwZeBLgGnmACsWuGXeuB2evQ==
+"@ionic/vue@5.5.0-dev.202010201728.85ba838":
+  version "5.5.0-dev.202010201728.85ba838"
+  resolved "https://registry.yarnpkg.com/@ionic/vue/-/vue-5.5.0-dev.202010201728.85ba838.tgz#90f872574652231e7d00894bd7807c82f209891b"
+  integrity sha512-IQLvK868QMZ7YORc7XsnMkYZs5WKpLUtV4wndtYS+d3hcvDB9An0IgELUCbChqAtrgJG33Z39PQlXGmlRJ7mfw==
   dependencies:
-    "@ionic/core" "5.5.0-dev.202010192009.55d7cac"
+    "@ionic/core" "5.5.0-dev.202010201728.85ba838"
     ionicons "^5.1.2"
 
 "@jest/console@^24.7.1", "@jest/console@^24.9.0":
