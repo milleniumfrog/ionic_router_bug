@@ -4,6 +4,9 @@
             <ion-text>
                 PageA + {{appId}}
             </ion-text> <br />
+            <ion-button @click="router.back()">
+                back
+            </ion-button> <br/>
             <ion-button :router-link="`/a/${appId}/test`">
                 to PageA1
             </ion-button>
@@ -31,6 +34,7 @@ export default defineComponent({
         const router = useRouter();
         const appId = computed(() => router.currentRoute.value.params.appid);
         return {
+            router,
             appId
         };
     }

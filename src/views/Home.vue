@@ -17,6 +17,9 @@
         <ion-button router-link='/a/working'>
           Page with route params
         </ion-button>
+        <ion-button router-link='/a/not_working'>
+          Page with other route params
+        </ion-button>
         <ion-button router-link='/b/working'>
           Page without route params
         </ion-button>
